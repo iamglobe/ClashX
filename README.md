@@ -22,7 +22,7 @@ ClashX 旨在提供一个简单轻量化的代理客户端，如果需要更多�
 - GeoIP rule support
 - Support Vmess/Shadowsocks/Socks5/Trojan
 - Support for Netfilter TCP redirect
-- test
+- test1
 
 ## Install
 
